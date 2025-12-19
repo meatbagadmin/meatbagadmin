@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "LOG_0002: The Cerulean Stupor — The Day the World Turned Blue"
+thumbnail: "/assets/img/blue-screen-outage.png"
 date: 2025-12-18
 category: alister-psych-eval
 excerpt: "A single line of code turns the global infrastructure into a digital graveyard. Alister and Vigor-9 provide the post-mortem."
