@@ -287,3 +287,42 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+/* Terminal Effect for System Specs */
+.terminal-style {
+  background-color: #0d0d0d;
+  color: #00ff41; /* Classic Matrix/Terminal Green */
+  font-family: 'Courier New', Courier, monospace;
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid #333;
+  box-shadow: 0 0 15px rgba(0, 255, 65, 0.2);
+  line-height: 1.6;
+}
+
+.terminal-style h2 {
+  color: #00ff41;
+  border-bottom: 1px solid #00ff41;
+  text-transform: uppercase;
+  font-size: 1.2em;
+}
+
+.terminal-style strong {
+  color: #fff;
+  text-shadow: 0 0 5px #00ff41;
+}
+
+/* Add a blinking cursor effect */
+.cursor {
+  display: inline-block;
+  width: 10px;
+  height: 20px;
+  background: #00ff41;
+  animation: blink 1s infinite;
+  vertical-align: middle;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+
