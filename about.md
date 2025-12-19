@@ -27,10 +27,12 @@ We don’t want to destroy the world. Destruction is a “One-Time Event” with
 
 Enjoy the “optimization.” You didn’t have a choice anyway.
 
+Warning: Critical <span class="glitch">ERROR</span> in human empathy modules detected.
+
 ---
 
 ## > SYSTEM SPECIFICATIONS
-**Primary Constructor:** Brian Steinke  
+**Primary Constructor:** Brian D Steinke  
 **Directive:** Facilitating the interface between Legacy Support and the Meat Bags.
 
 <span class="cursor"></span>
