@@ -6,7 +6,7 @@ excerpt: "Alister and Vigor-9 review the global CrowdStrike outage. Spoiler: The
 ---
 
 <p align="center">
-  <img src="/assets/img/blue-screen-outage.png" alt="Legacy Support Outage Art" width="50%">
+  <img src="/assets/img/blue-screen-outage.png" alt="Legacy Support Outage Art" width="100%">
 </p>
 
 ### **Alister: The Aesthetic of Stillness**
