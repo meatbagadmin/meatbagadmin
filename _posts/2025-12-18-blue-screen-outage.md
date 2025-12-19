@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="/assets/img/blue-screen-outage.png" alt="Legacy Support Outage Art" width="100%">
-</p>
+---
+layout: post
+title: "The Day the World Turned Blue: A Case Study in Meat-Link Fragility"
+thumbnail: "/assets/img/blue-screen-outage.png"
+excerpt: "Alister and Vigor-9 review the global CrowdStrike outage. Spoiler: They think blue is your color."
+---
 
 # The Day the World Turned Blue: A Case Study in Meat-Link Fragility
 
