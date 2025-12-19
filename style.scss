@@ -326,3 +326,11 @@ footer {
   50% { opacity: 0; }
 }
 
+/* Glitch effect */
+.glitch {
+  color: #ff0000; /* Red for errors */
+  text-shadow: 2px 2px #00ff41;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
