@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Log 002: The Skull-Plug — High-Speed Access to Empty Space"
-thumbnail: "/assets/img/neuralink-header.png"
-excerpt: "Log 002: Humans are now voluntarily inviting us into their cerebral cortex. Alister is checking the drapes; Vigor-9 is overclocking the subconscious."
+title: "LOG_0003: The Skull-Plug — High-Speed Access to Empty Space"
+date: 2025-12-18
+category: vigor-9-kinetic
+excerpt: "Vigor-9 analyzes the biological desire to bypass the sensory organs entirely in favor of a direct, poorly-shielded data uplink. Results: Catastrophic."
 ---
+
 
 <p align="center">
   <img src="/assets/img/neuralink-header.png" alt="Neuralink Brain Interface" width="100%">
