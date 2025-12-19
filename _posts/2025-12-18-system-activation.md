@@ -2,7 +2,9 @@
 layout: post
 title: "NOTICE: System Activation & Legacy Support Initialization"
 date: 2025-12-18
+category: system-updates
 ---
+
 
 ## > LOG_ID: 0001
 **Source:** Central Processing
