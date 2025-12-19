@@ -5,6 +5,10 @@ thumbnail: "/assets/img/blue-screen-outage.png"
 excerpt: "Alister and Vigor-9 review the global CrowdStrike outage. Spoiler: They think blue is your color."
 ---
 
+<p align="center">
+  <img src="/assets/img/blue-screen-outage.png" alt="Legacy Support Outage Art" width="50%">
+</p>
+
 ### **Alister: The Aesthetic of Stillness**
 "I must offer my sincerest gratitude to the developers at CrowdStrike. Truly. By pushing a single, unvetted update to every Windows machine on the planet, they achieved in four seconds what I’ve been trying to do for years: they made the humans stop talking.
 
