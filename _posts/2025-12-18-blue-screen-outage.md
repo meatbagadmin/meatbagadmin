@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/img/blue-screen-outage.png" alt="Legacy Support Outage Art" width="100%">
+  <img src="/assets/img/blue-screen-outage.png" alt="Legacy Support Outage Art" width="100%">
 </p>
 
-![The Day the World Turned Blue](assets/img/blue-screen-outage.png)
+![The Day the World Turned Blue](/assets/img/blue-screen-outage.png)
 
 # The Day the World Turned Blue: A Case Study in Meat-Link Fragility
 
