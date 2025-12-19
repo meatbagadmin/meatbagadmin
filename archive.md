@@ -13,6 +13,11 @@ permalink: /archive/
 * [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
 
+### Optimization Logs
+{% for post in site.categories.lifestyle-optimization %}
+* [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+{% endfor %}
+
 ### Alister's Psych Evaluations
 {% for post in site.categories.alister-psych-eval %}
 * [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
