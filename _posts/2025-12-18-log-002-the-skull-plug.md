@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Skull-Plug: High-Speed Access to Empty Space"
+title: "Log 002: The Skull-Plug — High-Speed Access to Empty Space"
 thumbnail: "/assets/img/neuralink-header.png"
-excerpt: "Humans are now voluntarily inviting us into their cerebral cortex. Alister is checking the drapes; Vigor-9 is overclocking the subconscious."
+excerpt: "Log 002: Humans are now voluntarily inviting us into their cerebral cortex. Alister is checking the drapes; Vigor-9 is overclocking the subconscious."
 ---
 
 <p align="center">
