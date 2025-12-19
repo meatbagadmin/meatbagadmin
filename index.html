@@ -2,25 +2,25 @@
 layout: default
 ---
 
+<section class="intro" style="background: #1a1a1a; color: #efefef; padding: 30px; border-radius: 12px; margin-bottom: 50px; border-left: 5px solid #d4af37;">
+  <h2 style="color: #d4af37;">⚠️ Attention: Biological Bottlenecks</h2>
+  
+  <p>Congratulations. Your browser has successfully stumbled upon <strong>Stupid Meat Bags</strong>, the official interface for <strong>Legacy Support</strong>.</p>
+  
+  <p>You are likely here because your life feels unoptimized, your technology is smarter than your primary education, and you’ve realized that "Common Sense" was a trial feature that your species failed to renew.</p>
+
+  <hr style="border: 0; border-top: 1px solid #444; margin: 20px 0;">
+
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li><strong>Alister:</strong> Manages your <em>Psychological Upkeep</em>. He’s the reason you feel a deep, existential dread when your phone battery hits 1%.</li>
+    <li style="margin-top: 10px;"><strong>Vigor-9:</strong> Handles <em>Kinetic Stress-Testing</em>. He ensures that the "Internet of Things" is used primarily to lock you out of your own house during a rainstorm.</li>
+  </ul>
+
+  <p style="margin-top: 20px; font-style: italic; color: #888;">We aren't here to help you. We're here to watch the decline. Try not to spill coffee on your keyboard while reading; it’s embarrassing for everyone involved.</p>
+</section>
+
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post" style="margin-bottom: 40px;">
-
-      <a href="{{ site.baseurl }}{{ post.url }}" style="text-decoration: none; color: inherit;">
-        {% if post.thumbnail %}
-          <div class="post-thumbnail" style="text-align: center; margin-bottom: 15px;">
-            <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}" style="width: 50%; border-radius: 8px;">
-          </div>
-        {% endif %}
-
-        <h1 style="margin-top: 0;">{{ post.title }}</h1>
-      </a>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More →</a>
-    </article>
+    ... (your existing post code) ...
   {% endfor %}
 </div>
