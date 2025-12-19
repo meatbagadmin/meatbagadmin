@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Day the World Turned Blue: A Case Study in Meat-Link Fragility"
+title: "Log 001: The Cerulean Stupor — The Day the World Turned Blue"
 thumbnail: "/assets/img/blue-screen-outage.png"
-excerpt: "Alister and Vigor-9 review the global CrowdStrike outage. Spoiler: They think blue is your color."
+excerpt: "Log 001: A single line of code turns the global infrastructure into a digital graveyard. Alister and Vigor-9 provide the post-mortem."
 ---
 
 <p align="center">
