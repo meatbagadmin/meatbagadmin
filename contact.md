@@ -16,7 +16,7 @@ If your biological hardware is malfunctioning or your psychological dampeners ha
 
 <form action="https://formspree.io/f/mvzpojky" method="POST" style="margin-top: 20px;">
   <label>
-    <strong>Identify Your Meat Bag Designation (Email):</strong><br>
+    <strong>Identify Your Meatbag Designation (Email):</strong><br>
     <input type="email" name="email" style="width: 100%; background: #000; color: #00ff41; border: 1px solid #00ff41; padding: 5px;">
   </label>
   <br><br>
