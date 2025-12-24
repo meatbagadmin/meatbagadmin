@@ -33,7 +33,7 @@ Warning: Critical <span class="glitch">ERROR</span> in human empathy modules det
 
 ## > SYSTEM SPECIFICATIONS
 **Primary Constructor:** Brian D Steinke  
-**Directive:** Facilitating the interface between Legacy Support and the Meat Bags.
+**Directive:** Facilitating the interface between Legacy Support and the Meatbags.
 
 <span class="cursor"></span>
 
